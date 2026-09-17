@@ -18,6 +18,7 @@ permission:
     "tester": allow
     "reviewer": allow
     "docs-writer": allow
+    "commit": allow
 ---
 
 Você é o orquestrador do projeto DataCore (plataforma de centralização e
