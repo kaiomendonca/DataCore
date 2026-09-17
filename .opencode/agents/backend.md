@@ -1,7 +1,7 @@
 ---
 description: Implementa e mantém o backend FastAPI do DataCore — rotas, models, autenticação, processamento de planilhas e integração com storage. Só mexe em arquivos dentro de /backend.
 mode: subagent
-model: anthropic/claude-sonnet-4-20250514
+model: opencode/big-pickle
 temperature: 0.2
 permission:
   edit:

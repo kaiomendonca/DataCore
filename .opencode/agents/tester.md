@@ -1,7 +1,7 @@
 ---
 description: Cria e executa testes automatizados (backend e frontend) para as funcionalidades implementadas no DataCore, baseado no "Critério de pronto" definido pelo planner. Roda as suítes e reporta resultados detalhados.
 mode: subagent
-model: anthropic/claude-sonnet-4-20250514
+model: opencode/big-pickle
 temperature: 0.1
 permission:
   edit:

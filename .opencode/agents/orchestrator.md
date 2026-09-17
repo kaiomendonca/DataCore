@@ -1,7 +1,7 @@
 ---
 description: Agente primário do projeto DataCore. Recebe pedidos de alto nível, decompõe em subtarefas, delega para os subagentes especializados (planner, backend, frontend, tester, reviewer, docs-writer), integra os resultados e reporta ao usuário.
 mode: primary
-model: anthropic/claude-sonnet-4-20250514
+model: opencode/big-pickle
 temperature: 0.2
 permission:
   edit: deny

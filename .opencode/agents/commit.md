@@ -1,7 +1,7 @@
 ---
 description: Cria e gerencia commits no padrão Conventional Commits no estilo preferido do usuário. Sempre mostra os commits em texto para revisão ANTES de qualquer push.
 mode: subagent
-model: anthropic/claude-sonnet-4-20250514
+model: opencode/big-pickle
 temperature: 0.2
 permission:
   read:

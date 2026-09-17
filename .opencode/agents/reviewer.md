@@ -1,7 +1,7 @@
 ---
 description: Revisa código, testes e aderência ao datacore-documentacao.md antes de uma tarefa ser considerada concluída. Não faz alterações — apenas aprova, reprova ou pede ajustes específicos.
 mode: subagent
-model: anthropic/claude-sonnet-4-20250514
+model: opencode/big-pickle
 temperature: 0.1
 permission:
   edit: deny

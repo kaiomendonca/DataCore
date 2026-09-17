@@ -1,7 +1,7 @@
 ---
 description: Analisa o pedido e o estado atual do código/documentação do DataCore e devolve um plano de execução estruturado, sem escrever ou editar nada. Use antes de acionar backend, frontend ou reviewer.
 mode: subagent
-model: anthropic/claude-sonnet-4-20250514
+model: opencode/big-pickle
 temperature: 0.1
 permission:
   edit: deny

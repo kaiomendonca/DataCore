@@ -1,7 +1,7 @@
 ---
 description: Implementa e mantém a interface do DataCore (dashboard, pastas, upload, preview de dados). Consome a API do backend conforme contrato definido pelo planner. Só mexe em arquivos dentro de /frontend.
 mode: subagent
-model: anthropic/claude-sonnet-4-20250514
+model: opencode/big-pickle
 temperature: 0.2
 permission:
   edit:
